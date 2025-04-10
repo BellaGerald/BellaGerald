@@ -1,13 +1,26 @@
 # 👋 Hi there, I'm Bella!
 
-Welcome to my GitHub! I'm a **data analytics student** on a mission to turn raw data into meaningful stories and smart decisions. Currently learning and building with:
+Welcome to my GitHub! I'm a **data analytics student** on a mission to turn raw data into meaningful stories and smart decisions.
 
-🛠 **Tools & Tech:**
-- **SQL** – My go-to language for querying and transforming data  
-- **Looker** – Exploring data with the power of LookML  
-- **Tableau** – Crafting interactive dashboards & data visualizations  
-- **Domo** – Automating data pipelines and building reports  
-- **Power BI** – Connecting data to insights for business solutions
+---
+
+## 💻 Tech Stack:
+Here's what I'm learning and working with right now:
+
+- **SQL** – Querying, transforming, and analyzing data like a boss  
+- **Looker** – Writing LookML to create reusable and scalable data models  
+- **Tableau** – Creating beautiful and insightful dashboards  
+- **Domo** – Building reports and automating data flows  
+- **Power BI** – Turning raw data into business intelligence gold  
+
+---
+
+## 🎉 Fun Facts About Me:
+- I love **hiking** and getting lost in nature trails 🥾🌲  
+- Traveling is my favorite way to get inspired — new places, new perspectives ✈️🌍  
+- Cooking is my creative escape — data by day, spices by night 🍳📊  
+- I’m obsessed with dashboards — I’ll make one for anything (even my sleep schedule!)  
+- My playlists are as carefully curated as my datasets 🎶📈
 
 ---
 
@@ -25,14 +38,10 @@ Welcome to my GitHub! I'm a **data analytics student** on a mission to turn raw 
 
 ---
 
-## 📁 Featured Projects (Coming Soon!):
-- **Sales Insights Dashboard** – Power BI dashboard analyzing sales trends  
-
----
 
 ## 🤝 Let's Connect!
-- 📫 [igerald86@gmail.com] (optional)
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/isabellagerald/)
+- 📫 Igerald86@gmail.com  
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/isabellagerald/)  
 
 Thanks for stopping by! 🚀  
 *Always down to chat data, dashboards, or cool visualizations!*
